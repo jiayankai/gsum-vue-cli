@@ -2,7 +2,7 @@
 'use strict';
 
 // 定义脚手架的文件路径
-process.env.NODE_PATH = __dirname + '/../gs-vue-cli/';
+process.env.NODE_PATH = __dirname + '/../';
 
 const program = require('commander');
 
