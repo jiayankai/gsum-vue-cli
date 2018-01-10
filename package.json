@@ -19,13 +19,5 @@
   },
   "bin": {
     "frontend": "bin/frontend"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/jiayankai/gsum-vue-cli.git"
-  },
-  "bugs": {
-    "url": "https://github.com/jiayankai/gsum-vue-cli/issues"
-  },
-  "homepage": "https://github.com/jiayankai/gsum-vue-cli#readme"
+  }
 }
